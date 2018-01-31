@@ -4,6 +4,9 @@
 
 # Hands On: Bots + Node.Js - Microsoft BOT Framework (Glaucia Lemos)
 
+<p align="left">
+  <img src="https://i.imgur.com/pA6SRQ6.gif"/>  
+</p>
 Repositório responsável pelos códigos desenvolvidos das vídeos aulas inerentes a nova série do meu canal do Youtube!
 Essas vídeos aulas servirão também de material de apoio para a Maratona Bots que está ocorrendo no site: **[TI Capacitacion](https://ticapacitacion.com/curso/botspt/)**
 
