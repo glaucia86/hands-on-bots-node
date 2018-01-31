@@ -36,20 +36,20 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
 
 ## Demos Relacionadas a Maratona Bots (Node.JS):
 
-| Módulo  | Lição | Código | Link (Demo)  |  |
+| Módulo  | Lição | Código | Link (Demo)  |  
 |---|---|---|---|---|
-| Aula 1  | teste | teste | teste |  |
-| Aula 1  | teste | teste | teste |  |
-| Aula 1  | teste | teste | teste |  |
+| Aula 1  | teste | teste | teste |  
+| Aula 1  | teste | teste | teste |  
+| Aula 1  | teste | teste | teste |  
 
 ## Demos Relacionadas a Maratona Bots (Node.JS):
 
 
-| Módulo  | Lição | Código | Link (Demo)  |  |
+| Módulo  | Lição | Código | Link (Demo)  |  
 |---|---|---|---|---|
-| Aula 1  | teste | teste | teste |  |
-| Aula 1  | teste | teste | teste |  |
-| Aula 1  | teste | teste | teste |  |
+| Aula 1  | teste | teste | teste |  
+| Aula 1  | teste | teste | teste |  
+| Aula 1  | teste | teste | teste |  
 
 ## Conteúdo da Série: Hands On: Bots + Node.Js - Microsoft BOT Framework  (* em desenvolvimento)
 
