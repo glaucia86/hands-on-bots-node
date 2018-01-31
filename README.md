@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://i.imgur.com/pA6SRQ6.gif"/>  
+  <img src="https://i.imgur.com/EXCU0Od.png"/>  
 </p>
 
 # Hands On: Bots + Node.Js - Microsoft BOT Framework (Glaucia Lemos)
 
-<p align="left">
+<p align="center">
   <img src="https://i.imgur.com/pA6SRQ6.gif"/>  
 </p>
+
 Repositório responsável pelos códigos desenvolvidos das vídeos aulas inerentes a nova série do meu canal do Youtube!
 Essas vídeos aulas servirão também de material de apoio para a Maratona Bots que está ocorrendo no site: **[TI Capacitacion](https://ticapacitacion.com/curso/botspt/)**
 
