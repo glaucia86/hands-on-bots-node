@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/EXCU0Od.png"/>  
-</p>
-
 # Hands On: Bots + Node.Js - Microsoft BOT Framework (Glaucia Lemos)
 
 <p align="center">
@@ -63,6 +59,20 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
 - [Aula 03 - Desenvolvendo o meu primeiro Bot!]()
 
 
+**aulas em desenvolvimento**
+
+## Algumas Observações Importantes!!! :fire:
+
 **p.s.:As aulas procurarei estar enviando o maior número possível. Como estou fazendo o Hands on e ao mesmo tempo desenvolvendo as demos em vídeo em Node.Js da Maratona Bots, leva-se um tempo para editar e enviar vídeos. Assim que, peço que aguardem por novas vídeos aulas.**
 
-**p.s.2: Quando tiver algum tema que não ficou compreensível a todos, estarei explicando via README.md. Com o propósito de criar uma documentação sobre o assunto para Node. Caso queiram que eu implemente algo no código, abram uma issue nesse repositório. Assim, todos poderão colaborar para o melhor desenvolvimento desse repositório. E sintam-se à vontade em fazer Pull Requests!!**
+**p.s.2: Quando tiver algum tema que não ficou compreensível a todos, estarei explicando via README.md. Com o propósito de criar uma documentação sobre o assunto para Node.**
+
+## Quer Propor Melhorias no Código? Façam Pull Request!!! 
+Caso queiram que eu implemente algo no código, abram uma issue nesse repositório. Assim, todos poderão colaborar para o melhor desenvolvimento desse repositório. E sintam-se à vontade em fazer Pull Requests!!
+
+
+Espero que possam gostar das vídeos aulas dessa nova série no meu canal!!! Não esqueçam de dar uma :star: no repositório e claro: Apreciem sem moderação!! :heart: :heart: :heart:
+
+<p align="center">
+  <img src="https://i.imgur.com/dLSzYDT.gif"/>  
+</p>
