@@ -34,7 +34,7 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
 
 
 
-## Demos Relacionadas a Maratona Bots (Node.JS):
+## Demos Relacionadas ao Hands on (Node.JS):
 
 | Módulo  | Lição | Código | Link (Demo)  |
 |---|---|---|---|
