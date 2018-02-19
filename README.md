@@ -36,9 +36,9 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
 
 ## Demos Relacionadas ao Hands on (Node.JS):
 
-| Módulo  | Lição | Código | Link (Demo)  |
+| Módulo  | Aula | Código | Link (Vídeo Demo)  |
 |---|---|---|---|
-| Aula 1  | teste | teste | teste | 
+| Módulo 2  | Aula 03 | teste | teste | 
 | Aula 1  | teste | teste | teste | 
 | Aula 1  | teste | teste | teste | 
 
@@ -46,7 +46,7 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
 ## Demos Relacionadas a Maratona Bots (Node.JS):
 
 
-| Módulo  | Lição | Código | Link (Demo)  |
+| Módulo  | Lição | Código | Link (Vídeo Demo)  |
 |---|---|---|---|
 | Aula 1  | teste | teste | teste | 
 | Aula 1  | teste | teste | teste | 
@@ -54,9 +54,12 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
 
 ## Conteúdo da Série: Hands On: Bots + Node.Js - Microsoft BOT Framework  (* em desenvolvimento)
 
-- [Aula 01 - Breve Introdução sobre Bots]()
-- [Aula 02 - Preparando o Ambiente de Desenvolvimento]()
-- [Aula 03 - Desenvolvendo o meu primeiro Bot!]()
+- **Módulo 01:**
+  * [Aula 01 - Breve Introdução sobre Bots](https://youtu.be/ziHcgSZ7j0Q)
+
+- **Módulo 02:**
+  * [Aula 02 - Preparando o Ambiente de Desenvolvimento]()
+  * [Aula 03 - Desenvolvendo o meu primeiro Bot!]()
 
 
 **aulas em desenvolvimento**
@@ -76,3 +79,5 @@ Espero que possam gostar das vídeos aulas dessa nova série no meu canal!!! Nã
 <p align="center">
   <img src="https://i.imgur.com/dLSzYDT.gif"/>  
 </p>
+
+
