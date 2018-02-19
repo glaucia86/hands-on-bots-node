@@ -58,7 +58,7 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
   * [Aula 01 - Breve Introdução sobre Bots](https://youtu.be/ziHcgSZ7j0Q)
 
 - **Módulo 02:**
-  * [Aula 02 - Preparando o Ambiente de Desenvolvimento]()
+  * [Aula 02 - Preparando o Ambiente de Desenvolvimento](https://youtu.be/jR9Tm0pT37M)
   * [Aula 03 - Desenvolvendo o meu primeiro Bot!]()
 
 
