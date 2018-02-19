@@ -59,7 +59,8 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
 
 - **Módulo 02:**
   * [Aula 02 - Preparando o Ambiente de Desenvolvimento](https://youtu.be/jR9Tm0pT37M)
-  * [Aula 03 - Desenvolvendo o meu primeiro Bot!]()
+  * [Aula 03 - Desenvolvendo Bot via Console](https://youtu.be/rrKGqLYfKZE)
+  * [Aula 04 - Desenvolvendo Bot via Bot Emulator](https://youtu.be/UJasDmv_ZYA)
 
 
 **aulas em desenvolvimento**
