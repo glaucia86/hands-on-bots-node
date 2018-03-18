@@ -20,13 +20,16 @@ const connector = new builder.ChatConnector({
     appPassword: ''
 });
 
-const bot = new builder.UniversalBot(connector, [
+const bot = new builder.UniversalBot(connector);
+
+//Bloco de Diálogos: 
+bot.dialog('/'), [
     (session) => {
         builder.Prompts.text(session,'Olá! Tudo bem?');
     },
 
     (session) => {
-    builder.Prompts.text(session, 'Como você se chama?');
+        builder.Prompts.text(session, 'Como você se chama?');
     },
 
     (session, results) => {
