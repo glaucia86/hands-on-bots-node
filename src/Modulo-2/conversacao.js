@@ -22,7 +22,7 @@ const connector = new builder.ChatConnector({
 
 const bot = new builder.UniversalBot(connector);
 
-//Bloco de Diálogos: 
+//Bloco de Diálogos
 bot.dialog('/'), [
     (session) => {
         builder.Prompts.text(session,'Olá! Tudo bem?');
