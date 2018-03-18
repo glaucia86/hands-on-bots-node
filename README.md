@@ -40,8 +40,8 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
 |---|---|---|---|
 | Módulo 2  | Aula 03 | [Código](https://goo.gl/ac3FNV) | [Aula 03](https://goo.gl/WwScdc) | 
 | Módulo 2 | Aula 04 | [Código](https://goo.gl/iV6vmY) | [Aula 04](https://goo.gl/KQX529) | 
-| Módulo 2 | Aula 06 | [Código]() | [Aula 06]() | 
-| Módulo 2 | Aula 07 | [Código]() | [Aula 07]() | 
+| Módulo 2 | Aula 06 | [Código](https://goo.gl/31dBjr) | [Aula 06](https://youtu.be/ChuDIMqRSFc) | 
+| Módulo 2 | Aula 07 | [Código](https://goo.gl/Sp1m7F) | [Aula 07](https://youtu.be/-pB48tj_9_w) | 
 | Módulo 3  | teste | teste | teste | 
 | Módulo 3  | teste | teste | teste | 
 
@@ -65,9 +65,9 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
   * [Aula 02 - Preparando o Ambiente de Desenvolvimento](https://youtu.be/jR9Tm0pT37M)
   * [Aula 03 - Desenvolvendo Bot via Console](https://youtu.be/rrKGqLYfKZE)
   * [Aula 04 - Desenvolvendo Bot via Bot Emulator](https://youtu.be/UJasDmv_ZYA)
-  * [Aula 05 - Conceitos Chaves do Bot Builder SDK em Node.Js]()
-  * [Aula 06 - Demo: Bot com Connector & Dialog via Console]()
-  * [Aula 07 - Demo: Bot com Connector & Dialog via Emulator]()
+  * [Aula 05 - Conceitos Chaves do Bot Builder SDK em Node.Js](https://youtu.be/Wd6lQqq54MQ)
+  * [Aula 06 - Demo: Bot com Connector & Dialog via Console](https://youtu.be/ChuDIMqRSFc)
+  * [Aula 07 - Demo: Bot com Connector & Dialog via Emulator](https://youtu.be/-pB48tj_9_w)
 
 - **Módulo 03: Bots Conversam?! Sim Senhor! (Em Desenvolvimento)**
   * [Aula 08 - ]()
