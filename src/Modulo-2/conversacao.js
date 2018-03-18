@@ -23,19 +23,19 @@ const connector = new builder.ChatConnector({
 const bot = new builder.UniversalBot(connector);
 
 //Bloco de Diálogos
-bot.dialog('/'), [
-    (session) => {
-        builder.Prompts.text(session,'Olá! Tudo bem?');
-    },
+bot.dialog('/', [
+  session => {
+    builder.Prompts.text(session, "Olá! Tudo bem?");
+  },
 
-    (session) => {
-        builder.Prompts.text(session, 'Como você se chama?');
-    },
+  session => {
+    builder.Prompts.text(session, "Como você se chama?");
+  },
 
-    (session, results) => {
-        let msg = results.response;
-        session.send(`Oi ${msg}! Em que posso ajudar?`);
-    }
+  (session, results) => {
+    let msg = results.response;
+    session.send(`Oi ${msg}! Em que posso ajudar?`);
+  }
 ]);
 
 //Endpoint para executar as mensagens para o usuário:
