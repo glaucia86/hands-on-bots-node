@@ -38,9 +38,12 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
 
 | Módulo  | Aula | Código | Link (Vídeo Demo)  |
 |---|---|---|---|
-| Módulo 2  | Aula 03 | teste | teste | 
-| Aula 1  | teste | teste | teste | 
-| Aula 1  | teste | teste | teste | 
+| Módulo 2  | Aula 03 | [Código](https://goo.gl/ac3FNV) | [Aula 03](https://goo.gl/WwScdc) | 
+| Módulo 2 | Aula 04 | [Código](https://goo.gl/iV6vmY) | [Aula 04](https://goo.gl/KQX529) | 
+| Módulo 2 | Aula 06 | [Código]() | [Aula 06]() | 
+| Módulo 2 | Aula 07 | [Código]() | [Aula 07]() | 
+| Módulo 3  | teste | teste | teste | 
+| Módulo 3  | teste | teste | teste | 
 
 
 ## Demos Relacionadas a Maratona Bots (Node.JS):
@@ -48,19 +51,30 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
 
 | Módulo  | Lição | Código | Link (Vídeo Demo)  |
 |---|---|---|---|
-| Aula 1  | teste | teste | teste | 
-| Aula 1  | teste | teste | teste | 
-| Aula 1  | teste | teste | teste | 
+| Exercícios Módulo 2  | Lições: 2 & 3 | [Código](https://goo.gl/KLXxH8)  | [Módulo 2](https://goo.gl/tUaTgD) | 
+| Exercícios Módulo 3  | Lições: 1-5 | [Código](https://goo.gl/LeYgyb) | [Módulo 3](https://goo.gl/4411Cw) | 
+| Exercícios Módulo 4  | Lições: 1-5 | [Código](https://goo.gl/DefmZ9) | [Módulo 4](https://goo.gl/ujHciH) | 
+| Exercícios Módulo 5  | Lições:  | [Código]() | [Módulo 5](https://goo.gl/5xWbSq) | 
 
 ## Conteúdo da Série: Hands On: Bots + Node.Js - Microsoft BOT Framework  (* em desenvolvimento)
 
-- **Módulo 01:**
+- **Módulo 01: Breve Introdução sobre Bots**
   * [Aula 01 - Breve Introdução sobre Bots](https://youtu.be/ziHcgSZ7j0Q)
 
-- **Módulo 02:**
+- **Módulo 02: Desenvolvendo o meu primeiro Bot!**
   * [Aula 02 - Preparando o Ambiente de Desenvolvimento](https://youtu.be/jR9Tm0pT37M)
   * [Aula 03 - Desenvolvendo Bot via Console](https://youtu.be/rrKGqLYfKZE)
   * [Aula 04 - Desenvolvendo Bot via Bot Emulator](https://youtu.be/UJasDmv_ZYA)
+  * [Aula 05 - Conceitos Chaves do Bot Builder SDK em Node.Js]()
+  * [Aula 06 - Demo: Bot com Connector & Dialog via Console]()
+  * [Aula 07 - Demo: Bot com Connector & Dialog via Emulator]()
+
+- **Módulo 03: Bots Conversam?! Sim Senhor! (Em Desenvolvimento)**
+  * [Aula 08 - ]()
+  * [Aula 09 - ]()
+  * [Aula 10 - ]()
+  * [Aula 11 - ]()
+  * [Aula 12 - ]()
 
 
 **aulas em desenvolvimento**
