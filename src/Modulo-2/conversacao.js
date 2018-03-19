@@ -20,6 +20,9 @@ const connector = new builder.ChatConnector({
     appPassword: ''
 });
 
+//Endpoint para executar as mensagens para o usuário:
+server.post('api/messages', connector.listen());
+
 const bot = new builder.UniversalBot(connector);
 
 //Bloco de Diálogos
@@ -37,6 +40,3 @@ bot.dialog('/', [
     session.send(`Oi ${msg}! Em que posso ajudar?`);
   }
 ]);
-
-//Endpoint para executar as mensagens para o usuário:
-server.post('api/messages', connector.listen());
