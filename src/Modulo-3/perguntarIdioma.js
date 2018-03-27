@@ -3,7 +3,7 @@
  * Arquivo: perguntarIdioma.js
  * Data: 26/03/2018
  * Descrição: Desenvolvimento de um Bot que solicita nome de usuário com uma
- * mensagem de saudação! (Conceitos de Armazenamento de Dados: 'dataDialog')
+ * mensagem de saudação! (Conceitos de Armazenamento de Dados: 'dialogData')
  * Author: Glaucia Lemos
  *
  * LINK: https://docs.microsoft.com/pt-br/azure/bot-service/nodejs/bot-builder-nodejs-state

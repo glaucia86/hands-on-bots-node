@@ -39,11 +39,13 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
 | Módulo  | Aula | Código | Link (Vídeo Demo)  |
 |---|---|---|---|
 | Módulo 2  | Aula 03 | [Código](https://goo.gl/ac3FNV) | [Aula 03](https://goo.gl/WwScdc) | 
-| Módulo 2 | Aula 04 | [Código](https://goo.gl/iV6vmY) | [Aula 04](https://goo.gl/KQX529) | 
-| Módulo 2 | Aula 06 | [Código](https://goo.gl/31dBjr) | [Aula 06](https://youtu.be/ChuDIMqRSFc) | 
-| Módulo 2 | Aula 07 | [Código](https://goo.gl/Sp1m7F) | [Aula 07](https://youtu.be/-pB48tj_9_w) | 
-| Módulo 3  | teste | teste | teste | 
-| Módulo 3  | teste | teste | teste | 
+| Módulo 2  | Aula 04 | [Código](https://goo.gl/iV6vmY) | [Aula 04](https://goo.gl/KQX529) | 
+| Módulo 2  | Aula 06 | [Código](https://goo.gl/31dBjr) | [Aula 06](https://youtu.be/ChuDIMqRSFc) | 
+| Módulo 2  | Aula 07 | [Código](https://goo.gl/Sp1m7F) | [Aula 07](https://youtu.be/-pB48tj_9_w) | 
+| Módulo 3  | Aula 09 | [Código](https://goo.gl/KtHNB3) | [Aula 09](https://youtu.be/sj_XvMzhiGw) | 
+| Módulo 3  | Aula 10 | [Código](https://goo.gl/uB2pzn) | [Aula 10](https://youtu.be/5uJlHwbXZok) | 
+| Módulo 3  | Aula 12 | [Código](https://goo.gl/L2ZkKq) | [Aula 12](https://youtu.be/yC831Q_BabI) | 
+| Módulo 3  | Aula 13 | [Código](https://goo.gl/1YaqzN) | [Aula 13](https://youtu.be/AQFGpiB5MKY) | 
 
 
 ## Demos Relacionadas a Maratona Bots (Node.JS):
@@ -69,12 +71,21 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
   * [Aula 06 - Demo: Bot com Connector & Dialog via Console](https://youtu.be/ChuDIMqRSFc)
   * [Aula 07 - Demo: Bot com Connector & Dialog via Emulator](https://youtu.be/-pB48tj_9_w)
 
-- **Módulo 03: Bots Conversam?! Sim Senhor! (Em Desenvolvimento)**
-  * [Aula 08 - ]()
-  * [Aula 09 - ]()
-  * [Aula 10 - ]()
-  * [Aula 11 - ]()
-  * [Aula 12 - ]()
+- **Módulo 03: Bots Conversam?! Sim Senhor!**
+  * [Aula 08 - Conceitos sobre Dialogs (Teoria)](https://youtu.be/LmEtrYgOAEA)
+  * [Aula 09 - Demo: Uso do método 'beginDialog'](https://youtu.be/sj_XvMzhiGw)
+  * [Aula 10 - Demo: Uso do método 'endDialog'](https://youtu.be/5uJlHwbXZok)
+  * [Aula 11 - Armazenamento de Dados em Dialogs (Teoria)](https://youtu.be/rq_8GJ34YMQ)
+  * [Aula 12 - Demo: Uso da propriedade 'userData'](https://youtu.be/yC831Q_BabI)
+  * [Aula 13 - Demo: Uso da propriedade 'dialogData'](https://youtu.be/AQFGpiB5MKY)
+
+- **Módulo 04: (em desenvolvimento)**
+  * [Aula 14 - ]()
+  * [Aula 15 - ]()
+  * [Aula 16 - ]()
+  * [Aula 17 - ]()
+  * [Aula 18 - ]()
+  * [Aula 19 - ]()
 
 
 **aulas em desenvolvimento**
