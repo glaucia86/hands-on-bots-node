@@ -46,6 +46,9 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
 | Módulo 3  | Aula 10 | [Código](https://goo.gl/uB2pzn) | [Aula 10](https://youtu.be/5uJlHwbXZok) | 
 | Módulo 3  | Aula 12 | [Código](https://goo.gl/L2ZkKq) | [Aula 12](https://youtu.be/yC831Q_BabI) | 
 | Módulo 3  | Aula 13 | [Código](https://goo.gl/1YaqzN) | [Aula 13](https://youtu.be/AQFGpiB5MKY) | 
+| Módulo 4  | Aula 15 | [Código](https://goo.gl/Kvsgiv) | [Aula 15](https://youtu.be/lj_bl8j4NRg) | 
+| Módulo 4  | Aula 16 | [Código](https://goo.gl/KRv872) | [Aula 16](https://youtu.be/tLc02AQY4sg) | 
+| Módulo 4  | Aula 17 | [Código](https://goo.gl/Tcwcam) | [Aula 17](https://youtu.be/urXta04b73U) | 
 
 
 ## Demos Relacionadas a Maratona Bots (Node.JS):
@@ -80,10 +83,10 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
   * [Aula 13 - Demo: Uso da propriedade 'dialogData'](https://youtu.be/AQFGpiB5MKY)
 
 - **Módulo 04: (em desenvolvimento)**
-  * [Aula 14 - ]()
-  * [Aula 15 - ]()
-  * [Aula 16 - ]()
-  * [Aula 17 - ]()
+  * [Aula 14 - Conceitos sobre Tipos de Prompts (Teoria)](https://youtu.be/88qWfHEsBDU)
+  * [Aula 15 - Demo: Uso de 'Prompts.confirm'](https://youtu.be/lj_bl8j4NRg)
+  * [Aula 16 - Demo: Uso de 'Prompts.choice'](https://youtu.be/tLc02AQY4sg)
+  * [Aula 17 - Demo: Uso de Diferentes Tipos de Prompts](https://youtu.be/urXta04b73U)
   * [Aula 18 - ]()
   * [Aula 19 - ]()
 
