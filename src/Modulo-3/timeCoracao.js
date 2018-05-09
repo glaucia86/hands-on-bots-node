@@ -1,31 +1,30 @@
 /**
- *
- * Arquivo: timeCoracao.js
- * Data: 26/03/2018
- * Descrição: Desenvolvimento de um Bot que pergunta ao usuário
- * o time de futebol do coração. (Usando os conceitos do método: endDialog')
+ * 
+ * Arquivo: olaMundoBot.js
+ * Data: 23/04/2018
+ * Descrição: Desenvolvimento de um Bot via Bot Emulator.
  * Author: Glaucia Lemos
- * Link (Documentação - Dialog): https://goo.gl/2KHPph
  *
+ * 
  */
 
-const restify = require("restify");
-const builder = require("botbuilder");
+var restify = require('restify');
+var builder = require('botbuilder');
 
 // Configuração do Server via Restify:
-const server = restify.createServer();
-server.listen(process.env.port || process.env.PORT || 3978, () => {
-  console.log("%s Aplicação executando na porta %s", server.name, server.url);
+var server = restify.createServer();
+server.listen(process.env.port || process.env.PORT || 3978, function() {
+    console.log('%s Aplicação está executando na porta %s', server.name, server.url);
 });
 
 // Criação do chat connector para comunicar com o serviço do Bot Framework:
-const connector = new builder.ChatConnector({
-  appId: "",
-  appPassword: ""
+var connector = new builder.ChatConnector({
+    appId:'',
+    appPassword: ''
 });
 
-// Endpoint para executar as mensagens para os usuários:
-server.post("api/messages", connector.listen());
+//Endpoint para executar as mensagens para os usuários via Bot Emulator:
+server.post("/api/messages", connector.listen());
 
 const bot = new builder.UniversalBot(connector);
 
