@@ -137,7 +137,7 @@ Seguindo todos esses passos, vocês estará para pronta para instalar as depedê
   * [Aula 15 - Demo: Uso de 'Prompts.confirm'](https://youtu.be/lj_bl8j4NRg)
   * [Aula 16 - Demo: Uso de 'Prompts.choice'](https://youtu.be/tLc02AQY4sg)
   * [Aula 17 - Demo: Uso de Diferentes Tipos de Prompts](https://youtu.be/urXta04b73U)
-  * [Aula 18 - ]()
+  * [Aula 18 - Demo: Fluxo de Conversação: Waterfalls](https://youtu.be/YnwxjFJuowE)
   * [Aula 19 - ]()
 
 
