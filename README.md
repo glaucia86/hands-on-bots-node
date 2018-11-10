@@ -70,6 +70,40 @@ OBS.: Quando seguir o passo da instalação do **node-gyp** é de suma importân
 
 Seguindo todos esses passos, vocês estará para pronta para instalar as depedências do projeto na pasta do projeto! ;)
 
+## Atualização Instalação (node-gyp) 11/2018:
+
+Devido a nova versão do Node.js, houve mudanças significativas inerente aos passos acima para a instalação do pacote **node-gyp**. 
+Após a versão 10.x do Node.js bastam seguir os seguintes passos:
+
+1º - Desinstale da sua máquina o Node.js
+
+2º - Exclua a pasta **npm** localizada no AppData: (remove manualmente):
+
+```
+C:\Users\<folder-name>\AppData\Roaming\npm directory was not deleted.
+```
+
+3º - Reinstale a última versão do Node.js 10.x: **[https://nodejs.org/en/]**(https://nodejs.org/en)
+
+4º - Abre agora o prompt de comando como administrador e execute o comando abaixo:
+
+```
+> npm install npm@latest -g
+```
+
+5º - E finalmente, instale globalmente o pacote **node-gyp** no prompt de comando como adminstrador:
+
+```
+> npm install -g node-gyp
+```
+
+Depois de seguir esses passos, vá até o local onde está o projeto e digite o comando:
+
+```
+> npm install
+```
+
+O problema será resolvido! :)
 
 ## O que Preciso Saber para prosseguir na série?!
 
@@ -150,6 +184,7 @@ Seguindo todos esses passos, vocês estará para pronta para instalar as depedê
 **p.s.2: Quando tiver algum tema que não ficou compreensível a todos, estarei explicando via README.md. Com o propósito de criar uma documentação sobre o assunto para Node.**
 
 ## Quer Propor Melhorias no Código? Façam Pull Request!!! 
+
 Caso queiram que eu implemente algo no código, abram uma issue nesse repositório. Assim, todos poderão colaborar para o melhor desenvolvimento desse repositório. E sintam-se à vontade em fazer Pull Requests!!
 
 
