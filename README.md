@@ -185,7 +185,7 @@ O problema será resolvido! :)
 
 ## Quer Propor Melhorias no Código? Façam Pull Request!!! 
 
-Caso queiram que eu implemente algo no código, abram uma issue nesse repositório. Assim, todos poderão colaborar para o melhor desenvolvimento desse repositório. E sintam-se à vontade em fazer Pull Requests!!
+Caso queiram que eu implemente algo no código, abram uma [**ISSUE**](https://github.com/glaucia86/hands-on-bots-node/issues) nesse repositório. Assim, todos poderão colaborar para o melhor desenvolvimento desse repositório. E sintam-se à vontade em fazer Pull Requests!!
 
 
 Espero que possam gostar das vídeos aulas dessa nova série no meu canal!!! Não esqueçam de dar uma :star: no repositório e claro: Apreciem sem moderação!! :heart: :heart: :heart:
