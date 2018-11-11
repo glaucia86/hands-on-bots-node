@@ -1,4 +1,4 @@
-# Hands On: Bots + Node.Js - Microsoft BOT Framework (Glaucia Lemos)
+# Hands On: Bots + Node.Js - Microsoft BOT Framework v.3 (Glaucia Lemos)
 
 <p align="center">
   <img src="https://i.imgur.com/pA6SRQ6.gif"/>  
