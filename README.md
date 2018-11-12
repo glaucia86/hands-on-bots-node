@@ -83,7 +83,7 @@ Após a versão 10.x do Node.js bastam seguir os seguintes passos:
 C:\Users\<folder-name>\AppData\Roaming\npm directory was not deleted.
 ```
 
-3º - Reinstale a última versão do Node.js 10.x: **[https://nodejs.org/en/]**(https://nodejs.org/en)
+3º - Reinstale a última versão do Node.js 10.x: [https://nodejs.org/en/](https://nodejs.org/en)
 
 4º - Abre agora o prompt de comando como administrador e execute o comando abaixo:
 
