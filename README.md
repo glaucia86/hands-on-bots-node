@@ -70,7 +70,7 @@ OBS.: Quando seguir o passo da instalação do **node-gyp** é de suma importân
 
 Seguindo todos esses passos, vocês estará para pronta para instalar as depedências do projeto na pasta do projeto! ;)
 
-## Atualização Instalação (node-gyp) 11/2018:
+## Atualização da Instalação (node-gyp) 11/2018:
 
 Devido a nova versão do Node.js, houve mudanças significativas inerente aos passos acima para a instalação do pacote **node-gyp**. 
 Após a versão 10.x do Node.js bastam seguir os seguintes passos:
