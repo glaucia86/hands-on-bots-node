@@ -15,7 +15,7 @@ Porém, estarei desenvolvendo as demos relacionadas aos códigos inerentes a Nod
 
 Para realizar as demos dessa série, se faz necessário instalar os seguintes programas:
 
-* Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/)
+* Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)
 * Node.JS - [DOWNLOAD AQUI](https://nodejs.org/en/)
 * Microsoft Bot Framework Emulator - [DOWNLOAD AQUI](https://github.com/Microsoft/BotFramework-Emulator/releases
 )
@@ -23,7 +23,7 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
 * Instalar globalmente o node-gyp - [DOCUMENTAÇÃO PARA INSTALAÇÃO DE MANEIRA CORRETA AQUI](https://github.com/nodejs/node-gyp)
 
 * Cadastro no site LUIS: https://www.luis.ai/
-* Cadastro no site Azure: https://azure.microsoft.com/pt-br/services/bot-service/
+* Cadastro no site Azure: https://azure.microsoft.com/services/bot-service/?WT.mc_id=javascript-0000-gllemos
 
 OBS.: Quando seguir o passo da instalação do **node-gyp** é de suma importância que façam o seguinte:
 
