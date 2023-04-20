@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/glaucia86/hands-on-bots-node#readme",
   "dependencies": {
-    "botbuilder": "^3.14.1",
+    "botbuilder": "^4.19.3",
     "restify": "^7.1.1"
   }
 }
